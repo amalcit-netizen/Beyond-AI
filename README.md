@@ -1,8 +1,6 @@
-# Beyond-AI
-# Machine Learning in E-Commerce: National Day Demand Forecasting & Inventory Optimization
-
+# Machine Learning Applications in E-Commerce: National Day Demand Forecasting & Inventory Optimization 📊🇸🇦
 ## Executive Summary
-This project is part of the **Machine Learning in E-Commerce Training Program** organized by **King Saud University (KSU)** in collaboration with **Zid** and the **Beyond AI Initiative**. 
+This project is part of the **Machine Learning Applications in E-Commerce** program (تطبيقات تعلّم الآلة في التجارة الإلكترونية) organized by **Beyond AI Initiative** in collaboration with **Zid**.
 
 The goal of this project is to leverage historical e-commerce transactional data from Zid's platform to build a predictive machine learning pipeline. The model forecasts product demand during the high-volume Saudi National Day season and optimizes inventory planning to prevent stockouts and overstocking.
 
@@ -31,7 +29,6 @@ The goal of this project is to leverage historical e-commerce transactional data
 ---
 
 ## Tech Stack & Tools
-* **Language:** Python
-* **Environment:** Google Colab
+* **Programming Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 * **Data Sources:** Zid E-Commerce Platform Datasets
